@@ -1,5 +1,5 @@
 
-# Project Title
+# EDNS Proxy
 **Description**:  This is a open source localhost DNS proxy to support Cisco Umbrella and EDNS Client Subnet (ECS)
 
 ## Open source licensing info
